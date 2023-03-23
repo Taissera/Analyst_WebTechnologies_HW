@@ -5,14 +5,14 @@ p {
     color:rgb(0, 0, 0);
 }
 h2 {
-    color: rgb(187, 179, 73);
+    color: rgb(94, 88, 7);
 }
 a {
-    color: rgb(133, 136, 133);
+    color: rgb(4, 0, 255);
 }
 .block {
     width: 260px;
-    background-color: rgb(3, 102, 252);
+    background-color: rgb(3, 103, 252, 0.301);
     border: 2px solid rgb(128, 119, 119);
     padding: 20px 10px 20px 30px;
     /*margin: 30px 20px 10px 50px;*/
